@@ -1,2 +1,2 @@
 # maze-creator-solver
-A Java desktop application to create and solve mazes with several algorithms
+A Java desktop application for creating and solving mazes.
